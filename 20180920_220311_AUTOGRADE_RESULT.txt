@@ -1,0 +1,58 @@
+
+Your output below:
+JAVA FIZZBUZZ PROGRAM
+Enter Fizz number: Enter Buzz number: Enter starting number: Enter ending number:
+1. 1
+2. Fizz
+3. Buzz
+4. Fizz
+5. 5
+6. FizzBuzz
+7. 7
+8. Fizz
+JAVA FIZZBUZZ PROGRAM
+Enter Fizz number: ERROR: Negative numbers are not allowed! Try again: Enter Buzz number: ERROR: Negative numbers are not allowed! Try again: Enter starting number: Enter ending number:
+ERROR: Ending number cannot be less than starting number! Try again: 2. Fizz
+3. Buzz
+4. Fizz
+5. 5
+6. FizzBuzz
+7. 7
+8. Fizz
+JAVA FIZZBUZZ PROGRAM
+Enter Fizz number:
+The end.
+EndOfYourOutput
+===============
+
+Expected output below:
+JAVA FIZZBUZZ PROGRAM
+Enter Fizz number: Enter Buzz number: Enter starting number: Enter ending number:
+1. 1
+2. Fizz
+3. Buzz
+4. Fizz
+5. 5
+6. FizzBuzz
+7. 7
+8. Fizz
+JAVA FIZZBUZZ PROGRAM
+Enter Fizz number: ERROR: Negative numbers are not allowed! Try again: Enter Buzz number: ERROR: Negative numbers are not allowed! Try again: Enter starting number: Enter ending number: ERROR: Ending number cannot be less than starting number! Try again:
+2. Fizz
+3. Buzz
+4. Fizz
+5. 5
+6. FizzBuzz
+7. 7
+8. Fizz
+JAVA FIZZBUZZ PROGRAM
+Enter Fizz number:
+The end.
+EndOfExpectedOutput
+===============
+
+Missing strings are: 
+
+Your grade for this assignment: 10.0 out of 10.0
+If you think there is a grading mistake,
+Please consult the TA during office hours.
